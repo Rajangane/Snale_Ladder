@@ -6,4 +6,10 @@ using Snake_Ladder;
 //new UC3_Snake().PositionCheck();
 //new UC4_Snake().WinnerPosition();
 //new UC5_Snake().ExactWinning();
-new UC6_Snake().TimesPlayed();
+//new UC6_Snake().TimesPlayed();
+new UC7_Snake().TwoPlayer();
+
+
+
+
+
